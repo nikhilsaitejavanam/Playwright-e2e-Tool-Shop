@@ -1,0 +1,22 @@
+{
+  "name": "playwright-e2e-tool-shop",
+  "version": "1.0.0",
+  "description": "Automating Test scenarios for Tool Shop web application by using Playwright with TypeScript, MCP servers and Playwright agents",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilsaitejavanam/Playwright-e2e-Tool-Shop.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nikhilsaitejavanam/Playwright-e2e-Tool-Shop/issues"
+  },
+  "homepage": "https://github.com/nikhilsaitejavanam/Playwright-e2e-Tool-Shop#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2",
+    "winston": "^3.19.0"
+  }
+}
