@@ -148,3 +148,7 @@ vite.config.ts.timestamp-*
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# Playground spec files
+seed.spec.ts
+example.spec.ts
